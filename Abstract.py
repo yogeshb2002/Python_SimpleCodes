@@ -12,3 +12,4 @@ class Programer2(Programer1):
 
 Arun = Programer2()
 Arun.coding()
+print("Hello")
